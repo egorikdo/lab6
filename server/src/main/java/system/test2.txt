@@ -1,0 +1,4 @@
+help
+info
+history
+execute_script test1.txt
