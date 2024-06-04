@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<routs>
+		<route key="4" id="2097747" name="askcbskhcbsjhcbs" x="34" y="54" creationDate="2024-04-22T15:59:50.013758" FromX="1232.0" FromY="3456.0" FromZ="34567.0" FromNAME="cjkwbckjs" ToX="113.0" ToY="6475.0" ToZ="3.46231232E8" ToNAME="sm bvshbfkjq" distance="123456.0"/>
+		<route key="2" id="3218342" name="ITMO_LETI" x="3" y="7" creationDate="2024-04-22T15:58:04.115135" FromX="2.6" FromY="51.2" FromZ="14.3" FromNAME="ITMO" ToX="5.0" ToY="70.0" ToZ="17.0" ToNAME="LETI" distance="1000.0"/>
+		<route key="2233" id="2233" name="qwe" x="1" y="1" creationDate="2024-05-24T10:48:10.388114" FromX="1.0" FromY="1.0" FromZ="1.0" FromNAME="1" ToX="1.0" ToY="1.0" ToZ="1.0" ToNAME="1" distance="3.0"/>
+	</routs>
+</collection>
